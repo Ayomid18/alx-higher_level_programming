@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-#include "lists.h"
+#include "list.h"
 /**
  * insert_node - inserts in ordered list
  * @head: head of list
